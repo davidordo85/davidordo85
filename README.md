@@ -30,9 +30,23 @@ My name is David and i am a full stack javascript developer.
 <br>
 <br>
 
+
+## OS:
+
+<img align="left" alt="" src="https://img.icons8.com/ios-filled/344/windows-10.png" width="40"/>
+<img align="left" alt="" src="https://img.icons8.com/color/344/ubuntu--v1.png" width="40"/>
+
+<br>
+<br>
+<br>
+
+
 ## More about me:
 
 
-<a href="www.linkedin.com/in/david-ordoñez-escacena-b93a6621b" rel="some text">![Foo](https://img.icons8.com/color/48/000000/linkedin.png)</a>
+<a href="http://www.linkedin.com/in/david-ordoñez-escacena-b93a6621b">![image](https://img.icons8.com/color/48/000000/linkedin.png)</a>
+<a href="mailto:davidordonezescacena@hotmail.es"><img align="left" alt="" src="https://img.icons8.com/color/344/ms-outlook.png" width="40"/></a>
+
+
 
 
