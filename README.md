@@ -33,6 +33,6 @@ My name is David and i am a full stack javascript developer.
 ## More about me:
 
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png">]("www.linkedin.com/in/david-ordoñez-escacena-b93a6621b")
+<a href="www.linkedin.com/in/david-ordoñez-escacena-b93a6621b" rel="some text">![Foo](https://img.icons8.com/color/48/000000/linkedin.png)</a>
 
 
