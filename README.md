@@ -2,7 +2,7 @@
 
 # Hi there!! 😃
 
-My name is david and i am a full stack javascript developer.
+My name is David and i am a full stack javascript developer.
 
 <br>
 
@@ -32,7 +32,7 @@ My name is david and i am a full stack javascript developer.
 
 ## More about me:
 
-<link src="www.linkedin.com/in/david-ordoñez-escacena-b93a6621b">
+<link href="www.linkedin.com/in/david-ordoñez-escacena-b93a6621b">
 <img alt="davordo85" src="https://img.icons8.com/color/48/000000/linkedin.png" /></link>
 
 
